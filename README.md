@@ -3,7 +3,7 @@
   <br>Receitix<br>
 </h1>
 
-<h4 align="center">📱Aplicativo Android em Java para cadastro e gerenciamento de receitas de forma simples e intuitiva.</h4>
+<h4 align="center">📱Aplicativo Android em Java para cadastro e gerenciamento de receitas culinárias de forma simples e intuitiva.</h4>
 
 <p align="center">
   <img src="images/add.png" alt="principal" width="200"/>
