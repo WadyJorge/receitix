@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/WadyJorge/receitix/blob/master/app/src/main/ic_launcher_receitix-playstore.png?raw=true" alt="Receitix" width="200">
+  <img src="https://github.com/WadyJorge/receitix/blob/main/app/src/main/ic_launcher_receitix-playstore.png?raw=true" alt="Receitix" width="200">
   <br>Receitix<br>
 </h1>
 
