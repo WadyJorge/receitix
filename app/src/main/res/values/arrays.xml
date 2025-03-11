@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>@string/bolos</item>
+        <item>@string/sobremesas</item>
+        <item>@string/bebidas</item>
+        <item>@string/carnes</item>
+        <item>@string/massas</item>
+        <item>@string/aves</item>
+        <item>@string/saladas</item>
+        <item>@string/salgados</item>
+        <item>@string/lanches</item>
+        <item>@string/sopas</item>
+        <item>@string/doces</item>
+        <item>@string/pratos_tipicos</item>
+    </string-array>
+</resources>

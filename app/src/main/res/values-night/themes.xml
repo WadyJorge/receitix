@@ -1,0 +1,23 @@
+<resources>
+    <!-- Tema Escuro -->
+    <style name="Theme.Receitix" parent="Theme.Material3.Dark">
+        <!-- Cores primárias -->
+        <item name="colorPrimary">@color/cinza</item>
+        <item name="colorOnPrimary">@color/branco</item>
+
+        <!-- Cores secundárias -->
+        <item name="colorSecondary">@color/preto</item>
+        <item name="colorOnSecondary">@color/branco</item>
+
+        <!-- Cores de fundo -->
+        <item name="colorSurface">@color/preto</item>
+        <item name="colorOnSurface">@color/branco</item>
+
+        <!-- Cores do texto -->
+        <item name="android:textColor">@color/branco</item>
+        <item name="android:textColorLink">@color/cinza</item>
+    </style>
+
+    <!-- Definição de cores adicionais -->
+    <color name="corSelecao">@color/cinza_escuro</color>
+</resources>

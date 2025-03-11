@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Receitix</string>
+    <string name="cadastrar_receita">Register Recipe</string>
+    <string name="editar_receita">Edit Recipe</string>
+    <string name="nome_da_receita">Recipe Name:</string>
+    <string name="nome_obrigatorio">The recipe name is required!</string>
+    <string name="digite_o_nome_da_receita">Enter the recipe name</string>
+    <string name="ingredientes">Ingredients:</string>
+    <string name="ingredientes_obrigatorios">Don\'t forget the ingredients!</string>
+    <string name="liste_os_ingredientes">List the ingredients</string>
+    <string name="modo_de_preparo">Preparation Method:</string>
+    <string name="modo_preparo_obrigatorio">You must fill in the preparation method!</string>
+    <string name="descreva_o_modo_de_preparo">Describe the preparation method</string>
+    <string name="tempo_de_preparo">Preparation Time:</string>
+    <string name="tempo_preparo_obrigatorio">Select the preparation time!</string>
+    <string name="menos_de_30_min">Less than 30 min</string>
+    <string name="de_30_min_1h">30 min - 1h</string>
+    <string name="mais_de_1h">More than 1h</string>
+    <string name="categoria">Category:</string>
+    <string name="categoria_obrigatoria">The category cannot be empty!</string>
+    <string name="aves">Poultry</string>
+    <string name="bebidas">Drinks</string>
+    <string name="bolos">Cakes</string>
+    <string name="doces">Sweets</string>
+    <string name="carnes">Meats</string>
+    <string name="massas">Pasta</string>
+    <string name="lanches">Snacks</string>
+    <string name="pratos_tipicos">Traditional Dishes</string>
+    <string name="saladas">Salads</string>
+    <string name="salgados">Savory</string>
+    <string name="sobremesas">Desserts</string>
+    <string name="sopas">Soups</string>
+    <string name="marcar_como_favorita">Mark as Favorite</string>
+    <string name="salvar">Save</string>
+    <string name="receita_cadastrada">Recipe successfully registered!</string>
+    <string name="erro_ao_cadastrar">Error: Failed to insert the recipe!</string>
+    <string name="receita_editada">Recipe successfully edited!</string>
+    <string name="erro_ao_editar">Error: Failed to update the recipe!</string>
+    <string name="nenhuma_alteracao">No changes were made!</string>
+    <string name="erro_posicao_invalida">Error: Invalid position!</string>
+    <string name="nome_valor">Name:</string>
+    <string name="tempo_de_preparo_valor">Preparation Time:</string>
+    <string name="categoria_valor">Category:</string>
+    <string name="favorita_valor">Favorite:</string>
+    <string name="favorita_sim">Yes</string>
+    <string name="favorita_nao">No</string>
+    <string name="limpar">Clear</string>
+    <string name="entradas_apagadas">Entries successfully cleared!</string>
+    <string name="desfazer">Undo</string>
+    <string name="lista_de_receitas">Recipe List</string>
+    <string name="adicionar">Add</string>
+    <string name="ordenar">Sort</string>
+    <string name="modo_noturno">Night Mode</string>
+    <string name="modo_claro">Light Mode</string>
+    <string name="restaurar_padroes">Restore Defaults</string>
+    <string name="confirmar_restaurar_padroes">Do you want to restore defaults?</string>
+    <string name="padroes_restaurados">Default preferences restored!</string>
+    <string name="sobre">About</string>
+    <string name="sugerir_categoria">Suggest Category</string>
+    <string name="editar">Edit</string>
+    <string name="excluir">Delete</string>
+    <string name="confirmar_excluir">Do you want to delete?\n\"%1$s\"</string>
+    <string name="receita_excluida">Recipe successfully deleted!</string>
+    <string name="erro_ao_excluir">Error: Failed to delete the recipe!</string>
+    <string name="logo_utfpr">UTFPR Logo</string>
+    <string name="nome_utfpr">FEDERAL UNIVERSITY OF TECHNOLOGY - PARANA</string>
+    <string name="descricao">Receitix: The ideal app to store your recipes!</string>
+    <string name="autor">Author: <a href="https://github.com/WadyJorge">Wady Jorge</a></string>
+    <string name="curso">Course: <a href="https://pos-graduacao-ead.cp.utfpr.edu.br/java/">Specialization in Java Technology</a></string>
+    <string name="email">E-mail: <a href="mailto:wbeliche@live.com">wbeliche@live.com</a></string>
+    <string name="contato_aplicativo">Questions about the app</string>
+    <string name="nenhum_aplicativo_paginas_web">No application found to open web pages!</string>
+    <string name="nenhum_aplicativo_email">No email application found!</string>
+    <string name="aviso">Warning:</string>
+    <string name="ok">OK</string>
+    <string name="confirmacao">Confirmation</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="erro_criar_banco_de_dados">Error: Failed to create or access the database!</string>
+    <string name="erro_receita_nao_encontrada">Error: Recipe not found!</string>
+</resources>

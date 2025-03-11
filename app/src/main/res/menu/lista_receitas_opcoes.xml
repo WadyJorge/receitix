@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Item de menu: Adicionar -->
+    <item
+        android:id="@+id/menuItemAdicionar"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/adicionar"
+        app:showAsAction="ifRoom" />
+
+    <!-- Item de menu: Ordenar -->
+    <item
+        android:id="@+id/menuItemOrdenar"
+        android:icon="@drawable/ic_sort_alpha_asc"
+        android:title="@string/ordenar"
+        app:showAsAction="ifRoom" />
+
+    <!-- Item de menu: Modo Noturno -->
+    <item
+        android:id="@+id/menuItemModoNoturno"
+        android:title="@string/modo_noturno"
+        app:showAsAction="ifRoom" />
+
+    <!-- Item de menu: Restaurar Padrões -->
+    <item
+        android:id="@+id/menuItemRestaurar"
+        android:title="@string/restaurar_padroes" />
+
+    <!-- Item de menu: Sobre -->
+    <item
+        android:id="@+id/menuItemSobre"
+        android:title="@string/sobre" />
+
+</menu>
